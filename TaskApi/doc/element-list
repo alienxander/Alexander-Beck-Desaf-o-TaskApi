@@ -1,1 +1,14 @@
+cl.alienxander.taskapi
+cl.alienxander.taskapi.application.data.ms
+cl.alienxander.taskapi.application.data.ms.impl
+cl.alienxander.taskapi.application.delegate
+cl.alienxander.taskapi.application.delegate.impl
+cl.alienxander.taskapi.application.exception
+cl.alienxander.taskapi.application.service
+cl.alienxander.taskapi.application.service.impl
+cl.alienxander.taskapi.config
+cl.alienxander.taskapi.domain.generic.messages
+cl.alienxander.taskapi.domain.generic.responses
+cl.alienxander.taskapi.domain.generic.types.enums
+cl.alienxander.taskapi.domain.model
 cl.alienxander.taskapi.infrastructure.rest.controllers
