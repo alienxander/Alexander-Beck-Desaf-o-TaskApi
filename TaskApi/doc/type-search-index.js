@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cl.alienxander.taskapi.infrastructure.rest.controllers","l":"TaskController"}]

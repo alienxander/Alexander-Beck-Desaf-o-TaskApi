@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"cl.alienxander.taskapi.infrastructure.rest.controllers","c":"TaskController","l":"getTasksPerWorkingDay()"},{"p":"cl.alienxander.taskapi.infrastructure.rest.controllers","c":"TaskController","l":"TaskController()","url":"%3Cinit%3E()"}]
