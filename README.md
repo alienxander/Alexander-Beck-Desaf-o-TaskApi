@@ -7,11 +7,11 @@
 
 1.- Abrir una consola cmd, git bash u otra que aplique e ir al directorio del proyecto schedulator y ejecutar el siguiente comando. El proyecto se iniciará en el puerto 8080
 
-![](RackMultipart20210529-4-zf52m1_html_4d3e1ba4128cf53.png)
+![]readmeImgs/1.png)
 
 2.- Abrir una consola cmd, git bash u otra que aplique e ir al directorio del proyecto TaskApi y ejecutar el siguiente comando. El proyecto se iniciará en el puerto 8001
 
-![](RackMultipart20210529-4-zf52m1_html_40663b1bbe7790ab.png)
+![]2.png)
 
 3.- Abrir una consola cmd, git bash u otra que aplique e ir al directorio del proyecto task-front y ejecutar el siguiente comando. El proyecto se iniciará en el puerto 3000
 
