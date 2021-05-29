@@ -7,11 +7,11 @@
 
 1.- Abrir una consola cmd, git bash u otra que aplique e ir al directorio del proyecto schedulator y ejecutar el siguiente comando. El proyecto se iniciará en el puerto 8080
 
-!https://github.com/alienxander/Alexander-Beck-Desaf-o-TaskApi/blob/master/readmeImgs/1.png
+!(https://github.com/alienxander/Alexander-Beck-Desaf-o-TaskApi/blob/master/readmeImgs/1.png)
 
 2.- Abrir una consola cmd, git bash u otra que aplique e ir al directorio del proyecto TaskApi y ejecutar el siguiente comando. El proyecto se iniciará en el puerto 8001
 
-![]/readmeImgs/.png)
+![](/readmeImgs/.png)
 
 3.- Abrir una consola cmd, git bash u otra que aplique e ir al directorio del proyecto task-front y ejecutar el siguiente comando. El proyecto se iniciará en el puerto 3000
 
